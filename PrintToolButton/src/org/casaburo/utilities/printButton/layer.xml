@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Toolbars">
+        <folder name="File">
+            <file name="sep-before-PrintAction.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="499"/>
+            </file>
+            <file name="org-openide-actions-PrintAction.instance" url="org-openide-actions-PrintAction.instance">
+               <attr name="SystemFileSystem.icon" urlvalue="nbresloc:/org/casaburo/utilities/printButton/resources/print.png"/>
+                <attr name="noIconInMenu" boolvalue="false"/> 
+                <attr name="position" intvalue="500"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="surviveFocusChange" boolvalue="false"/>
+                <attr name="type" stringvalue="org.netbeans.api.actions.Printable"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
